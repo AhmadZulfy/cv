@@ -12,7 +12,7 @@
 }
 
 #projects {
-  background-color: #104496;
+  background-color: #b3b2ba;
 }
 
 section {
@@ -26,6 +26,6 @@ section {
   }
 
   .navbar {
-    background-color: black !important;
+    background-color: #b3b2ba !important;
   }
 }
